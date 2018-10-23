@@ -1,1 +1,1 @@
-# tecnicalgamer.io
+# technicalgamer.github.io
